@@ -3,4 +3,4 @@ Hey, welcome to my repository for my first game in Unreal Engine 5, dubbed EscAP
 As stated in my Wiki, all assets (including models, music, SFX, design, animations, art, etc. EVERYTHING! was produced by yours truly!) -- with the exception of some pre-existing free things such as soundfonts or text fonts, utilized in music or SFX. 
 
 https://github.com/user-attachments/assets/3ca1985a-9679-45a3-a183-186f0ce35b56
-
+https://youtu.be/Cv09aM7AEI0
