@@ -4,3 +4,6 @@ As stated in my Wiki, all assets (including models, music, SFX, design, animatio
 
 https://youtu.be/Cv09aM7AEI0
 <img width="1079" height="282" alt="logo" src="https://github.com/user-attachments/assets/048e63f8-0dd7-47d1-9416-0c41b9104202" />
+<img width="347" height="193" alt="screen2" src="https://github.com/user-attachments/assets/9f2ffe41-bfd3-4c8c-8526-813ad6912e63" />
+<img width="347" height="195" alt="screen1" src="https://github.com/user-attachments/assets/9f93f71c-9ab8-4a12-9e18-0ab01521cfa8" />
+<img width="347" height="196" alt="screen3" src="https://github.com/user-attachments/assets/2d0dc2bb-1790-4df6-8831-606bfb96c5f5" />
